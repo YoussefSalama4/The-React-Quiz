@@ -1,6 +1,6 @@
 # The-React-Quiz
 
-The **React Quiz** is a quiz application built with React, utilizing the `useReducer` hook to manage all the app's states.
+The **React Quiz** is a quiz application built with React, utilizing the `useReducer` hook to manage all the app's states and `contextAPI` to share the state globally to all components.
 
 ## Features
 
